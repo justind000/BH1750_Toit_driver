@@ -1,6 +1,6 @@
 # BH1750
 
-Driver for the Rohm Semi BH1750 Ambient Light Sensor.
+Toit driver for the Rohm Semi BH1750 Ambient Light Sensor.
 
 ## Usage
 ### Continuous measurement
