@@ -1,0 +1,6 @@
+# Toit Lock File.
+prefixes:
+  bh1750: ..
+packages:
+  ..:
+    path: ..
